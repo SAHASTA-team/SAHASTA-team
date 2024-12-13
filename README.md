@@ -8,6 +8,7 @@ Here are the talented individuals bringing SAHASTA to life:
 
 | Name              | Bangkit ID  | Learning Path     |
 |-------------------|-------------|-------------------|
+| M. Hilma Minanur rohman | M007B4KY2346| Machine Learning |
 |  Ratna Sari           | M444B4KX3700| Machine Learning   |
 | Dewanti Nariswari           | M007B4KX1078| Machine Learning|
 | Salman Yuris Adila Azzami           | C007B4KY4028| Cloud Computing   |
